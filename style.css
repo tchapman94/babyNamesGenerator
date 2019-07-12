@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    background-color: blueviolet;
+}
+h1{
+    margin: 5px;
+}
+
+h2{
+    width: 100%;
+    margin-top: -5px;
+}
+#input{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 25px;
+
+}
+.LN{
+    font-size: 25px;
+    width: 100%;
+}
+p {
+    margin:10px;
+}
+#boy-or-girl{
+    margin: 5px;
+}
+#boy{
+    color: lightblue;
+}
+#girl{
+    color: pink;
+}
